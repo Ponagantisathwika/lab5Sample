@@ -2,6 +2,6 @@ public class Sample
 {
 	public static void main(String args[])
 	{
-		System.Out.println("sathwika");
+		System.out.println("sathwika");
 	}
 }
